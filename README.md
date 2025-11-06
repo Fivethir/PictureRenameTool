@@ -30,7 +30,7 @@
 2. 将 `rename_picture.py` 保存到本地
 3. 双击运行，或在终端执行：```bash python rename_picture.py
 #### 方式二：运行独立 .exe（推荐，无需 Python）
-1. 从 dist/图片重命名工具.exe 启动程序
+1. 从 dist/PictureRenameTool.exe 启动程序
 2. 可复制到任意 Windows 电脑直接使用
 
 
